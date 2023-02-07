@@ -1,0 +1,56 @@
+/* selector{
+    propiedad: 5px;
+}
+
+div{max-width: -5px; max-height: -5px; }
+section{max-width:10px ; min-height:10px ;} */
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    display: inline-block;
+}
+.subtitulo{
+    text-align: center;
+}
+.titulo2{
+    text-align: center;
+    font-size: 30px;
+}
+.logo{width: 100px;}
+.menu{list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: grey;}
+.menu_item{float: left;}
+.menu_item a{display:block;color:#fff;text-align: center;padding: 14px 16px;text-decoration: none;}
+.menu_item a:hover{background-color: #111;}
+
+.imgtext{
+    background-color: rgb(210, 210, 218);
+    width: 40%;
+    
+}
+
+.ruta{
+    width: 250;
+}
+
+.fotos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.caterpiler{width: 800px;
+
+}
+
+.videos{
+    width: 700px;
+    height: 540px;
+}
+
+.compresor{
+    width: 400px;
+}
+
+.iveco{
+    width: 900px;
+}
